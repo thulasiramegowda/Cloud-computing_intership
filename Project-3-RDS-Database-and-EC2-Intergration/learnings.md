@@ -1,0 +1,6 @@
+- Understood managed databases using AWS RDS.
+- Learned the difference between compute resources and database services.
+- Learned SQL basics including table creation and data insertion.
+- Explored cloud networking and security groups.
+- Understood how EC2 instances communicate with RDS databases.
+- Learned the importance of cleaning up cloud resources to avoid costs.

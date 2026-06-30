@@ -1,0 +1,8 @@
+- AWS RDS
+- AWS EC2
+- AWS CloudShell
+- MySQL
+- Amazon Linux
+- Security Groups
+- AWS Console
+- LLM's
