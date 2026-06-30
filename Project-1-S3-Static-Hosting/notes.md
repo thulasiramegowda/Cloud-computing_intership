@@ -1,0 +1,4 @@
+- AWS S3 can host static websites without managing servers.
+- Public access settings and bucket policies are essential for website accessibility.
+- S3 is suitable for HTML, CSS and JavaScript applications.
+- Static hosting is cost effective compared to running a dedicated server.
