@@ -1,0 +1,10 @@
+- AWS EC2
+- PuTTY
+- PuTTYgen
+- SSH Key Pair (.pem / .ppk)
+- Git
+- GitHub
+- Linux Terminal
+- Python HTTP Server
+- Windows Laptop
+- LLM's

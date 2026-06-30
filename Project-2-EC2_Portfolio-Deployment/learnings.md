@@ -1,0 +1,9 @@
+- Understood the concept of Infrastructure as a Service (IaaS).
+- Learned that EC2 provides a virtual Linux computer in the cloud.
+- Learned how to remotely access Linux machines from Windows using SSH.
+- Understood the purpose of key pairs for secure authentication.
+- Learned how security groups control network access.
+- Learned basic Linux commands such as ls, pwd and cd.
+- Learned how Git can be installed and used on remote servers.
+- Understood how applications can be served using a public IP address.
+- Learned the importance of stopping or terminating unused cloud resources.
